@@ -1,5 +1,8 @@
 ### Hi! I'm Armanya 👋
 
+# I'm a 2nd Software Engineering student at UW currently looking for Fall 2021 Internships
+# Here are some of the cool things I've worked on!
+
 <!--
 **ArmanyaDalmia/ArmanyaDalmia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
