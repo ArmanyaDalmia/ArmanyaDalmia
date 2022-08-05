@@ -1,6 +1,6 @@
 ### Hi! I'm Armanya 👋
 
-I'm a 3rd year Software Engineering student at UW currently looking for **Summer 2022 Internships**. Feel free to reach out on my *[Linkedin](https://www.linkedin.com/in/armanyadalmia/)* or my email, *<adalmia@uwaterloo.com>*!
+I'm a 3rd year Software Engineering student at UW currently looking for **Winter 2023 Internships**. Feel free to reach out on my *[Linkedin](https://www.linkedin.com/in/armanyadalmia/)* or my email, *<adalmia@uwaterloo.com>*!
 
 Below are some of the cool things I've worked on!
 
